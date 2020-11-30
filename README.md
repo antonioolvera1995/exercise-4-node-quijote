@@ -1,0 +1,1 @@
+#Ejercicio en Node en el que se lee el Quijote en formato txt, se calcula el numero de veces que aparece la palabra "Sancho" en dicho texto y se copia dicho texto en la misma ruta con el nombre resultado.
